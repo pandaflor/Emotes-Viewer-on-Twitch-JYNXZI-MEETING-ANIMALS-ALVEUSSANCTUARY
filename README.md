@@ -1,2 +1,2 @@
-# Emotes-Viewer-on-Twitch-JYNXZI-MEETING-ANIMALS-ALVEUSSANCTUARY
-A showcase of the collab stream, and 2 solo streams of creators Jynxzi and Maya Higa on Twitch. Created for research purposes at the University of Bonn.
+# Emotes-Viewer-on-Twitch 
+Hello dear Stuts Attendee! :) Before you are 3 HTML files, which are a direct replay (viewer interface) of the 3 respective Twitch chats I analyse in my term paper on Toxic-leaning Emotes on Twitch. The HTML files showcase the collab stream, and 2 solo streams of creators Jynxzi and Maya Higa on Twitch.
